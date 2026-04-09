@@ -78,7 +78,7 @@ https://chuoling.github.io/mediapipe/solutions/hands.html
 # 翻译方式:
 依照中医穴位定位的说明，自行推论出用mediapipe hands 如何找到穴位，再到网络上查找中医师所拍摄的穴位照片，以验证穴位是否正确。
 
-自行推论详见:[穴位.xlsx](https://github.com/jaipei1030/Use-mediapipe-to-find-acupuncture-points-in-the-human-body/blob/main/%E7%A9%B4%E4%BD%8D.xlsx)
+自行推论详见:[穴位.xlsx](h[ttps://github.com/jaipei1030/Use-mediapipe-to-find-acupuncture-points-in-the-human-body/blob/main/%E7%A9%B4%E4%BD%8D.xlsx](https://github.com/Dieu-12138/mediapipe-hands/blob/main/%E7%A9%B4%E4%BD%8D.xlsx))
 
 验证穴位详见:[检测穴位.docx]([https://github.com/jaipei1030/Use-mediapipe-to-find-acupuncture-points-in-the-human-body/blob/main/%E6%AA%A2%E6%B8%AC%E7%A9%B4%E4%BD%8D.pdf](https://github.com/Dieu-12138/mediapipe-hands/blob/main/%E6%A3%80%E6%B5%8B%E7%A9%B4%E4%BD%8D.docx))
 

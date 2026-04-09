@@ -78,10 +78,9 @@ https://chuoling.github.io/mediapipe/solutions/hands.html
 # 翻译方式:
 依照中医穴位定位的说明，自行推论出用mediapipe hands 如何找到穴位，再到网络上查找中医师所拍摄的穴位照片，以验证穴位是否正确。
 
-自行推论详见:[穴位.xlsx](https://github.com/jaipei1030/Use-mediapipe-to-find-acupuncture-points-in-the-human-body/blob/main/%E7%A9%B4%E4%BD%8D.xlsx](https://github.com/Dieu-12138/mediapipe-hands/blob/main/%E7%A9%B4%E4%BD%8D.xlsx.)
+自行推论详见:[穴位.xlsx](https://github.com/Dieu-12138/mediapipe-hands/blob/main/%E7%A9%B4%E4%BD%8D.xlsx)
 
-验证穴位详见:[检测穴位.docx](https://github.com/jaipei1030/Use-mediapipe-to-find-acupuncture-points-in-the-human-body/blob/main/%E6%AA%A2%E6%B8%AC%E7%A9%B4%E4%BD%8D.pdf](https://github.com/Dieu-12138/mediapipe-hands/blob/main/%E6%A3%80%E6%B5%8B%E7%A9%B4%E4%BD%8D.docx.)
-
+验证穴位详见:[检测穴位.docx](https://github.com/Dieu-12138/mediapipe-hands/blob/main/%E6%A3%80%E6%B5%8B%E7%A9%B4%E4%BD%8D.docx)
 # 结论 : 
 &nbsp;&nbsp;&nbsp;&nbsp;从照片验证的结果来看，Mediapipe Hands 技术在定位穴位方面确实展现了其准确性与可行性。然而，鉴于穴位具有重要的医疗用途，涉及人体健康与治疗效果，若要进一步将此应用推广至实际临床或保健领域，仍需要专业医师的检测与验证，确保定位准确度与实际应用的安全性。因此，本专题目前定位于教育用途，旨在帮助普通用户理解并学习穴位疗法的基本知识，降低中医保健的入门门槛，并推广中医文化的基础概念。
 
